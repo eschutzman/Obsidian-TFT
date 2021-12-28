@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "6a80b4f0639e72bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8321fc0ce28b8dae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Leveling Guide.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a24b760efd85253a",
+    "type": "split",
+    "children": [
+      {
+        "id": "71a79a4ff481f155",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c645f87a8bb0dc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "897459f81e289c90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89502c61b44e8a10",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dcd5d18d92174dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64ba2060e997c508",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Leveling Guide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb1e2ec20d39fc3c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8321fc0ce28b8dae",
+  "lastOpenFiles": [
+    "Leveling Guide.md",
+    "Units/1 Cost/Ezreal.md",
+    "Items/Completed Items/AP Items/Hand Of Justice.md",
+    "Item Prio.md",
+    "Leveling Timeline.md",
+    "Starting Boards.md",
+    "Origins/Yordle.md",
+    "Items/Master Items.md",
+    "Units/2 Cost/Zyra.md",
+    "Units/2 Cost/Zilean.md"
+  ]
+}

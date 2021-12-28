@@ -1,0 +1,1 @@
+(1) Jayce adopts melee form when placed in the front 2 rows, and ranged form in the back 2 rows.
