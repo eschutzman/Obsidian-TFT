@@ -8,3 +8,6 @@ Bonus Attack Speed : 35% / 40% / 50%
 
 [[Scrap]]
 [[Assasin]]
+
+
+### Best Items

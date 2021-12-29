@@ -6,3 +6,10 @@ Healing : 35 / 50 / 75
 
 [[Chemtech]]
 [[Challenger]]
+
+
+## Best Items
+
+[[Statik Shiv]]
+[[Titan's Resolve|Titans]]
+[[Quicksilver|QSS]]

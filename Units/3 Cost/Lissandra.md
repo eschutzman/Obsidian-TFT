@@ -6,3 +6,8 @@ Damage : 225 / 300 / 500
 
 [[Chemtech]]
 [[Scholar]]
+
+### Best Items
+[[Morellonomicon|Morello]]
+[[Rod]]
+[[Tear]]

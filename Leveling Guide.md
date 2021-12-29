@@ -1,3 +1,4 @@
+# [[Master Augments]]
 
 # Leveling Timeline
 ## 	Level 8 on 4-2
@@ -25,6 +26,9 @@
 ## Level 8 on 5-1
 * Don’t be here
 * You are wrong, do better
+
+
+# [[Starting Boards]]
 
 
 # Synergies
